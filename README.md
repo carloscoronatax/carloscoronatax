@@ -2,7 +2,7 @@
 - 👀 I’m interested in data and BI analytics
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on BI or financial analysis projects.
-- 📫 How to reach me email: carloscoronaanguiano@gmail.com or my Linkedin
+- 📫 How to reach me by email: carloscoronaanguiano@gmail.com or my Linkedin.
 - ⚡ Fun fact: I'm an accountant based in Mexico.
 
 <!---
