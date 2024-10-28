@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Python Data libraries**
+- 💬 Ask me about **Python Data Libraries**
 
 - 📫 How to reach me **carloscoronaanguiano@gmail.com**
 
