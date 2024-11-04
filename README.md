@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carloscoronatax&label=Profile%20views&color=0e75b6&style=flat" alt="carloscoronatax" /> </p>
 
-- 🌱 I’m currently learning **DS&A**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Python Data Libraries**
 
