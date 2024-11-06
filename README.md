@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloscoronatax&show_icons=true&locale=en&layout=compact" alt="carloscoronatax" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carloscoronatax&show_icons=true&locale=en" alt="carloscoronatax" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carloscoronatax&theme=dark&show_icons=true&locale=en" alt="carloscoronatax" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carloscoronatax&" alt="carloscoronatax" /></p>
