@@ -2,7 +2,7 @@
 I'm Carlos Corona, an accountant with a strong interest in data analysis and a passion for using data to uncover insights and drive decisions. Here, you’ll find projects and experiments as I build my skills in data analysis, visualization, and related programming tools. I’m always eager to learn, collaborate, and connect, so feel free to explore my work and reach out!
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=23&duration=2800&pause=1000&color=D8F753&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Accountant+%26+Aspiring+Data+Analyst;Explore+my+projects+below!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=23&duration=2800&pause=1000&color=FF6014&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Accountant+%26+Aspiring+Data+Analyst;Explore+my+projects+below!" alt="Typing SVG" /></a>
 </p>
 
 ## 🌐 Socials:
