@@ -1,5 +1,13 @@
 # 👋 About Me:
-I'm Carlos Corona, an Accountant with a focus on Financial Data Analysis and data-driven decision-making. Currently pursuing a degree in Computer Engineering, I am combining my expertise in finance with programming and data analysis skills to create innovative solutions in both tech and finance. Here, you’ll find my projects and experiments as I build expertise in data analysis, visualization, and essential programming tools. I’m always eager to learn, collaborate, and connect, so feel free to explore my work and reach out!
+I'm Carlos Corona, former accountant transitioning into data engineering. Building data pipelines and ETL processes with a focus on financial systems.
+
+## 🎯 Current focus:
+- Financial data engineering projects
+- Cloud infrastructure
+- Real-time data processing
+- Data warehouse solutions
+
+Currently seeking Data Engineering/Analysis internship opportunities. I’m always eager to learn, collaborate, and connect, so feel free to explore my work and reach out!
 
 
 ## 🌐 Socials:
