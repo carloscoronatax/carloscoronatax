@@ -1,5 +1,5 @@
 # 👋 About Me:
-I'm Carlos Corona, former accountant transitioning into data engineering. Building data pipelines and ETL processes with a focus on financial systems.
+I'm Carlos Corona, former accountant transitioning into accounting data analysis/engineering. Building data pipelines and ETL processes with a focus on financial systems.
 
 ## 🎯 Current focus:
 - Financial data engineering projects
